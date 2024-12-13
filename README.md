@@ -1,6 +1,6 @@
 # Automação de Testes de Login com Cypress
 
-Este projeto utiliza o framework **Cypress** para realizar testes automatizados de login em diferentes cenários. O objetivo é validar o comportamento da aplicação ao tratar credenciais incorretas e ao realizar login com sucesso.
+Este projeto utiliza o framework **Cypress** para realizar testes automatizados de login em diferentes cenários. O objetivo é validar o comportamento da aplicação ao tratar credenciais incorretas .
 
 ## 🚀 Funcionalidades Testadas
 
